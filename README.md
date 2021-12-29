@@ -2,7 +2,7 @@
 ## API simples sobre dados de vendas. ##
 
 Antes de mais nada para quem gosta e usa o Python, recomendo muito os vídeos do canal Hashtag Programação. Onde não só contém Python, mas também outros assuntos de tecnologia. E como me baseei em um dos vídeos para criar esse código...
-Segue o link: [https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg](url)
+Segue o link: [![Watch the video](https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg)
 
 ### Resumo do código ###
 Como diz acima, o código é bem simples. Resumindo ele pega um arquivo "csv" com alguns dados, em específico(vendas) e através de um site(Heroku) consigo criar minha API.
