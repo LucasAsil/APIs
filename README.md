@@ -58,8 +58,8 @@ Seguindo os passos certos não tem erro.E após dar seu primeiro push no site, v
 Existem alguns detalhes que posso ter deixado passar, mas o conteúdo mais importante está contido nessa minha experiencia que resolvi compartilhas.
 Caso queira ver com mais detalhes pode ver o video sobre esse projeto no canal Hashtag Programação;
 
-aqui[https://www.youtube.com/watch?v=WWVEymSt1iI](url)
+https://www.youtube.com/watch?v=WWVEymSt1iI
 
 e também como criar um site com Flask;
 
-aqui[https://www.youtube.com/watch?v=K2ejI4z8Mbg&t=2884s](url)
+https://www.youtube.com/watch?v=K2ejI4z8Mbg&t=2884s]
