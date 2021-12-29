@@ -31,7 +31,7 @@ Por fim só resta executar o app e colocalo em um host, no caso o da Heroku.Para
 
 ![proc](https://user-images.githubusercontent.com/68728828/147698593-3c5e4ada-bf00-4bdc-8458-f31b239ccf21.jpg)
 
-  -Instalamos um complemento do "Procfile;
+  - Instalamos um complemento do "Procfile;
   
   ![guni](https://user-images.githubusercontent.com/68728828/147698611-47fac3be-943e-44ae-9ad0-76626ae2f51a.jpg)
 
@@ -40,6 +40,26 @@ Por fim só resta executar o app e colocalo em um host, no caso o da Heroku.Para
 ![requirements](https://user-images.githubusercontent.com/68728828/147698624-87869805-6101-42f4-bd8c-e8b1cbf4be42.jpg)
 
 ### Heroku ###
-Falta pouco para ter a sua própria API.Para isso é necessário criar uma conta no site Heroku
+Falta pouco para ter a sua própria API.Para isso é necessário criar uma conta no site Heroku, com um login a conta é facilmente criada, e em seguida é possével criar um novo app ou "site".
 
+![heroku1](https://user-images.githubusercontent.com/68728828/147700047-56523d62-27c7-4be3-9154-a0e4cf52d74f.jpg)
 
+Com isso você ira em Deploy e é so seguir as instruções do próprio site, onde é nescessario primiro ter instalado na maquina o git e heroku CLI
+
+![dicas](https://user-images.githubusercontent.com/68728828/147700401-ff22ce59-cc4b-4b98-82e4-aad26a20cf4a.jpg)
+
+Seguindo os passos certos não tem erro.E após dar seu primeiro push no site, você se deparar com algo parecido com isso...
+
+![link1](https://user-images.githubusercontent.com/68728828/147700718-923b309f-09bd-43bb-b202-b1dc1657ad20.jpg)
+
+![link2](https://user-images.githubusercontent.com/68728828/147700724-f2c9f7cb-22a6-45e8-87cf-74515e3c3167.jpg)
+
+### Considerações ###
+Existe alguns detalhes que posso ter deixado passar, mas o conteúdo mais importante está contido nessa minha experiencua que resolvi compartilhas.
+Caso queira ver com mais detalhes pode ver o video sobre esse projeto no canal Hashtag Programação;
+
+aqui[https://www.youtube.com/watch?v=WWVEymSt1iI](url)
+
+e também como criar um site com Flask;
+
+aqui[https://www.youtube.com/watch?v=K2ejI4z8Mbg&t=2884s](url)
