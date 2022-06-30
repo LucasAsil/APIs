@@ -16,7 +16,7 @@ Como diz acima, o código é bem simples. Resumindo ele pega um arquivo "csv" co
 
 ![import_3](https://user-images.githubusercontent.com/68728828/147696918-e1f86f6f-4a0e-45b8-a1a4-714663ed0cc3.jpg)
 
-2. Em seguida se cria a funcionalidade do site com; a Homepage inicial, e a segunda, onde contem os dados das vendas. Lembrando que é necessário que o arquivo que será usado como banco de dados "csv", já tem que estar dentro da pasta do projeto.
+2. Em seguida se cria a funcionalidade do site como a Homepage inicial, e a segunda, onde contem os dados das vendas. Lembrando que é necessário que o arquivo que será usado como banco de dados "csv", já tem que estar dentro da pasta do projeto.
 
 ![funcionalidade](https://user-images.githubusercontent.com/68728828/147697281-284a69ee-659b-45fd-aca9-33e14862d8fe.jpg)
 
