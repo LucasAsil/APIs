@@ -35,7 +35,7 @@ Por fim só resta executar o app e colocalo em um host, no caso o da Heroku.Para
   
   ![guni](https://user-images.githubusercontent.com/68728828/147698611-47fac3be-943e-44ae-9ad0-76626ae2f51a.jpg)
 
-2. Instalamos mais uma complemento que gerara um novo arquivo de texto "requirements", onde contém os aruqivos necessários para rodar a API.
+2. Instalamos mais uma complemento que gerara um novo arquivo de texto "requirements", onde contém os arquivos necessários para rodar a API.
 
 ![requirements](https://user-images.githubusercontent.com/68728828/147698624-87869805-6101-42f4-bd8c-e8b1cbf4be42.jpg)
 
@@ -44,7 +44,7 @@ Falta pouco para ter a sua própria API. Para isso é necessário criar uma cont
 
 ![heroku1](https://user-images.githubusercontent.com/68728828/147700047-56523d62-27c7-4be3-9154-a0e4cf52d74f.jpg)
 
-Com isso você ira em Deploy e é so seguir as instruções do próprio site, onde é nescessario primiro ter instalado na maquina o git e heroku CLI
+Com isso você ira em Deploy e é so seguir as instruções do próprio site, onde é nescessario primeiro ter instalado na maquina o git e heroku CLI
 
 ![dicas](https://user-images.githubusercontent.com/68728828/147700401-ff22ce59-cc4b-4b98-82e4-aad26a20cf4a.jpg)
 
