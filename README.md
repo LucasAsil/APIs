@@ -55,7 +55,7 @@ Seguindo os passos certos não tem erro.E após dar seu primeiro push no site, v
 ![link2](https://user-images.githubusercontent.com/68728828/147700724-f2c9f7cb-22a6-45e8-87cf-74515e3c3167.jpg)
 
 ### Considerações ###
-Existem alguns detalhes que posso ter deixado passar, mas o conteúdo mais importante está contido nessa minha experiencia que resolvi compartilhas.
+Existem alguns detalhes que posso ter deixado passar, mas o conteúdo mais importante está contido nessa minha experiencia que resolvi compartilhar.
 Caso queira ver com mais detalhes pode ver o video sobre esse projeto no canal Hashtag Programação;
 
 https://www.youtube.com/watch?v=WWVEymSt1iI
